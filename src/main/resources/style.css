@@ -24,13 +24,3 @@
     -fx-border-color: #979797;
     -fx-border-width: 0.5;
 }
-
-.button.zero {
-    -fx-pref-width: 180;
-    -fx-alignment: center-left;
-    -fx-padding: 0 25;
-}
-
-.button:armed {
-    -fx-background-color: darkgrey;
-}
